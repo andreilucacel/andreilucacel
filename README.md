@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreilucacel 
-- 👀 I’m interested in programming C/C++
+- 👀 I’m interested in programming Python/ML/AI, C/C++
 - 🌱 I’m currently learning at Computer Science UTCN
 - 💞️ I’m looking to collaborate on some internships or part-time jobs 
 - 📫 How to reach me andrei.lucacel@gmail.com
